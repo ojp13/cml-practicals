@@ -1,0 +1,13 @@
+pandas
+seaborn
+ipympl
+matplotlib
+missingno
+cython
+joblib
+ipykernel
+scipy
+jupyter
+scikit-learn
+jupyterlab
+ipywidgets

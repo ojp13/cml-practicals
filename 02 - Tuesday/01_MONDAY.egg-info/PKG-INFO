@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: 01-MONDAY
+Version: 1.0
+Summary: Monday
+Requires-Dist: pandas
+Requires-Dist: seaborn
+Requires-Dist: ipympl
+Requires-Dist: matplotlib
+Requires-Dist: missingno
+Requires-Dist: cython
+Requires-Dist: joblib
+Requires-Dist: ipykernel
+Requires-Dist: scipy
+Requires-Dist: jupyter
+Requires-Dist: scikit-learn
+Requires-Dist: jupyterlab
+Requires-Dist: ipywidgets
